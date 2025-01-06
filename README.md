@@ -65,13 +65,13 @@ Consultez facilement les informations des restaurants directement depuis Telegra
 📸 **Capture d’écran**  
 Ajoutez ici des captures d’écran ou des GIF montrant l'interface du bot.
 ### 1. Start and Help Menu
-![Start and Help](./start%20n%20help.png)
+<img src="./start%20n%20help.png" alt="Start and Help" width="400">
 
 ### 2. Restaurant Info
-![Restaurant Info](./rest_info.png)
+<img src="./rest_info.png" alt="Restaurant Info" width="400">
 
 ### 3. Product Info
-![Product Info](./product_info.jpg)
+<img src="./product_info.jpg" alt="Product Info" width="400">
 ---
 
 ## 🛠️ Dépannage  
