@@ -23,7 +23,7 @@ Consultez facilement les informations des restaurants directement depuis Telegra
 ### Étapes pour installer et lancer Restogram :
 1. **Clonez le dépôt :**  
     ```bash
-    git clone https://github.com/yourusername/restogram.git
+    git clone https://github.com/elmansouri-port/Restogram.git
     cd restogram
     ```
 2. **Installez les dépendances :**  
@@ -60,15 +60,18 @@ Consultez facilement les informations des restaurants directement depuis Telegra
 - 🌐 **Liens directs** vers le site web ou WhatsApp des restaurants.  
 - ✨ **Styling moderne** avec emojis pour une expérience agréable.  
 
----
-
-## 🎥 Démonstration  
-
-Découvrez Restogram en action :  
+---  
 
 📸 **Capture d’écran**  
 Ajoutez ici des captures d’écran ou des GIF montrant l'interface du bot.
+### 1. Start and Help Menu
+![Start and Help](./start%20n%20help.png)
 
+### 2. Restaurant Info
+![Restaurant Info](./rest_info.png)
+
+### 3. Product Info
+![Product Info](./product_info.jpg)
 ---
 
 ## 🛠️ Dépannage  
